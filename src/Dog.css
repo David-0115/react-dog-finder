@@ -1,0 +1,19 @@
+.Dog-name {
+    position: relative;
+    bottom: 55px;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+    text-shadow: -.5px -.5px 0 blue,
+        .5px -.5px 0 blue,
+        -.5px .5px 0 blue,
+        .5px .5px 0 blue;
+}
+
+.Dog {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

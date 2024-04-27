@@ -1,0 +1,9 @@
+.Dogs {
+    display: flex;
+    flex-direction: row;
+}
+
+.Dogs-Dog {
+    width: 200px;
+    margin: 5px;
+}
